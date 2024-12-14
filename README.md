@@ -1,5 +1,6 @@
 # Matteo De Moor
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MatteoDeMoor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # My stats

@@ -1,9 +1,8 @@
 # Matteo De Moor
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MatteoDeMoor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 # My stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MatteoDeMoor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![](https://raw.githubusercontent.com/MatteoDeMoor/MatteoDeMoor/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
